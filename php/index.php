@@ -4,8 +4,14 @@
   <meta charset="utf-8">
   <title>CRUD</title>
   <link rel="stylesheet" type="text/css" href="../css/hoja.css">
-
-  <!-- Latest compiled and minified CSS -->
+<!--TODO
+BASE DE DATOS
+$base= new PDO('mysql:host=localhost; dbname=pokemon_php', 'root', 'root');
+NOMBRE: pokemon_php
+TABLA: entrenador
+CAMPOS DE LA TABLA EN ORDEN: ID_ENTRENADOR , NOMBRE_ENTRENADOR , APELLIDO_ENTRENADOR , EDAD_ENTRENADOR , POKEMON_ENTRENADOR
+-->
+  <!-- BOOTSTRAP LINKS -->
   <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
 
   <link rel="stylesheet" type="text/css" media="screen" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.10.0/css/bootstrap-select.min.css">
