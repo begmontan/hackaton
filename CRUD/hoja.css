@@ -1,0 +1,35 @@
+
+h1{text-align:center;
+}
+
+.subtitulo{
+	font-size:12px;
+}
+
+
+table td{
+	text-align:center;
+	border:1px #000099 dotted;
+
+}
+
+table .sin{
+	border:0;
+}
+
+table .bot{
+	padding:0 5px;
+	display:inline;
+	border:0;
+}
+
+table .primera_fila{
+	font-size:1.5em;
+	text-decoration:underline;
+	background-color:#9AAEAC;
+}
+
+.centrado{
+	text-align:center;
+}
+
