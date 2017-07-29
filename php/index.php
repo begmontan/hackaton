@@ -107,7 +107,7 @@
 
     <table width="70%" border="0" align="center">
       <tr >
-        <td width="5%" style="background-color:#9AAEAC;" class="primera_fila">Numero</td>
+        <td width="5%" style="background-color:#9AAEAC;" class="primera_fila">Número</td>
         <td width="10%" style="background-color:#9AAEAC;" class="primera_fila">Nombre</td>
         <td width="10%" style="background-color:#9AAEAC;" class="primera_fila">Apellido</td>
         <td width="5%" style="background-color:#9AAEAC;" class="primera_fila">Edad</td>
